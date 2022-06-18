@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggplot.multistats"]
+	path = ggplot.multistats
+	url = https://github.com/flying-sheep/ggplot.multistats
+	shallow = true
+	registered = true
+[submodule "knn.covertree"]
+	path = knn.covertree
+	url = https://github.com/flying-sheep/knn.covertree
+	shallow = true
+	registered = true

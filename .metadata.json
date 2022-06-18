@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggplot.multistats",
+    "oncran": true
+  },
+  {
+    "package": "knn.covertree",
+    "oncran": true
+  }
+]
